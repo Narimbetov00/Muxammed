@@ -1,1 +1,3 @@
-# Muxammed
+# Muxammed Narimbetov
+
+**`Backend Developer (Python/Django)`**
