@@ -1,11 +1,20 @@
-# Muxammed Narimbetov
+<h1 align="center">Hello Everyone! 👋</h1>
+<h2 align="center">I'm Narimbetov Muxammed</h2>
+<h3 align="center">A Passionate Python Developer</h3>
 
-**`Backend Developer (Python Developer)`**
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=batirniyaz.batirniyaz&left_color=red&right_color=green&left_text=Hello%20Visitors)
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&random=false&width=900&lines=Hello+Evryone+%F0%9F%91%8B!+;)](https://git.io/typing-svg)
+## 🚀 Technologies I Work With
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,git,github,linux,postgres,postman,docker,vscode,html,css,figma,pycharm" />
+  </a>
+  <br>
+  <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="Aiogram" width="100" height="50"/>
+</div>
 
+---
 <div align="center">
 
   <a href="mailto:narimbetov00@mail.ru">
