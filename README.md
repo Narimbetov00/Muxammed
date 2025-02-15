@@ -1,6 +1,9 @@
 # Muxammed Narimbetov
 
 **`Backend Developer (Python Developer)`**
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=batirniyaz.batirniyaz&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&random=false&width=900&lines=Hello+Evryone+%F0%9F%91%8B!+;)](https://git.io/typing-svg)
 
 
 <div align="center">
